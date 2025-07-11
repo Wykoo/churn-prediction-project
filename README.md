@@ -4,7 +4,7 @@ This project focuses on predicting customer churn based on demographic and behav
 
 ---
 
-## 📦 Usage
+## Usage
 
 All steps are included in `01_notebook.ipynb`, including:
 
@@ -16,7 +16,7 @@ All steps are included in `01_notebook.ipynb`, including:
 
 ---
 
-## 🧠 Models Used
+## Models Used
 
 - Logistic Regression (initial testing)
 - Random Forest
@@ -27,7 +27,7 @@ All steps are included in `01_notebook.ipynb`, including:
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 - Accuracy
 - Precision
@@ -37,7 +37,7 @@ All steps are included in `01_notebook.ipynb`, including:
 
 ---
 
-## 📁 Data
+## Data
 
 **Dataset:** `data/raw/Klienci_DB.csv`
 
@@ -56,7 +56,7 @@ All steps are included in `01_notebook.ipynb`, including:
 
 ---
 
-## 🔍 Goals
+## Goals
 
 - Build a clean machine learning pipeline.
 - Compare multiple models.
@@ -65,7 +65,7 @@ All steps are included in `01_notebook.ipynb`, including:
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 churn-prediction-project/
@@ -89,7 +89,7 @@ churn-prediction-project/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. Clone the repository:
 ```bash
